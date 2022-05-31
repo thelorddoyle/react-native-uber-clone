@@ -32,12 +32,6 @@ const data = [
   }
 ]
 
-// const navigationState = useNavigationState(state => state)
-// let index = navigationState.index
-// let routes = navigationState.routes.length
-// console.log(index)
-// console.log(routes)
-
 
 const NavFavourites = () => {
 
